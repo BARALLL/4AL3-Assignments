@@ -3,10 +3,6 @@
 - [Introduction](#introduction)
 - [Course Overview](#course-overview)
 - [Installation](#installation)
-<!-- Running the Code -->
-<!-- Data Description -->
-<!-- Results and Analysis -->
-<!-- Challenges and Solutions -->
 - [References](#references)
 - [Acknowledgments](#acknowledgments)
 
