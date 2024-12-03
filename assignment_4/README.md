@@ -1,2 +1,4 @@
-#### Dataset
-This assignment uses the [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) dataset.
+#### Context and Dataset
+The first part of this assignment focuses on image classification using a Convolutional Neural Network (CNN). We use the [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset from Zalando, containing 70,000 grayscale images of clothing items across 10 categories. The task is to build and evaluate a CNN model, comparing its performance to established benchmarks.
+
+The second part explores algorithmic decision-making in the public sector, specifically focusing on the Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) system used to assess recidivism risk. We will be using the [ProPublica dataset](https://github.com/propublica/compas-analysis) (available as part of their 2016 exposé), which contains information on 11,757 individuals scored by COMPAS for both general recidivism and violent crime risk. The goal is to explore potential biases and ethical implications of this system.
